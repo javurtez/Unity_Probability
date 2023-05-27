@@ -1,7 +1,7 @@
-# UnityTool_Probability
+# Unity_Probability
 A simple Editor can adjust the probability of items from Array.
 
-* Updated and Based from: https://github.com/zxc30314/UnityTool_Probability
+* Updated to Latest, and Bugfixed which is based from: https://github.com/zxc30314/UnityTool_Probability
 
 ### Prerequisites
 * Unity 2021.3+
